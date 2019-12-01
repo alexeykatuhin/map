@@ -1,0 +1,84 @@
+[{
+	"linkRead":"https://nihutak.livejournal.com/16870.html",
+	"linkVk":"https://vk.com/album175903184_266755520",
+	"img":"toledo.png",
+	"header":"Толедо, 10.2019",
+	"lng":-4.02,
+	"lat":39.856,
+	"scale": 0.1
+},{
+	"linkRead":"https://nihutak.livejournal.com/16328.html",
+	"img":"madrid.png",
+	"header":"Мадрид, 10.2019",
+	"lng":-3.70,
+	"lat": 40.41,
+	"scale": 0.1
+},
+{
+	"linkFlickr":"https://flic.kr/s/aHsmrCbZb9",
+	"img":"zvenigorod.png",
+	"header":"Звенигород, 11.2018",
+	"lng": 36.85,
+	"lat":55.73 ,
+	"scale": 0.2
+},
+{
+	"linkFlickr":"https://flic.kr/s/aHsmhUpiEC",
+	"img":"nhatrang.png",
+	"header":"Нячанг, 03.2018",
+	"lng": 109.19,
+	"lat":12.25 ,
+	"scale": 0.09
+},
+{
+	"linkFlickr":"https://flic.kr/s/aHsmhUrhEY",
+	"img":"hanoi.PNG",
+	"header":"Ханой, 03.2018",
+	"lng": 105.84,
+	"lat":21.01,
+	"scale": 0.09
+},
+{
+	"linkFlickr":"https://flic.kr/s/aHsmggWbFn",
+	"linkRead":"https://nihutak.livejournal.com/5176.html",
+	"img":"almaty.png",
+	"header":"Алматы, 12.2017",
+	"lng":76.93,
+	"lat": 43.23,
+	"scale": 0.04
+},
+{
+	"linkFlickr":"https://flic.kr/s/aHsmacdUd5",
+	"img":"istra.png",
+	"header":"Истра, 05.2017",
+	"lng":36.86,
+	"lat": 55.91,
+	"scale": 0.2
+},
+{
+	"linkFlickr":"https://flic.kr/s/aHsmggXv9n",
+	"linkRead":"https://nihutak.livejournal.com/14186.html",
+	"linkVk":"https://vk.com/album175903184_265504313",
+	"img":"vladimir.png",
+	"header":"Владимир, 05.2017",
+	"lng":40.40,
+	"lat": 56.13,
+	"scale": 0.2
+},
+{
+	"linkFlickr":"https://flic.kr/s/aHskzyAhoj",
+	"img":"peterburg.gif",
+	"header":"Санкт-Петербург, 02.2017",
+	"lng":30.31,
+	"lat": 59.9,
+	"scale": 0.16
+},
+{
+	"linkFlickr":"https://flic.kr/s/aHsmedbXAW",
+	"img":"nizhny.gif",
+	"header":"Нижний Новгород, 11.2016",
+	"lng":43.98,
+	"lat": 56.32,
+	"scale": 0.2
+}
+]

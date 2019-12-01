@@ -1,0 +1,707 @@
+[
+	{
+		"links": [
+			{
+				"url": "https://nihutak.livejournal.com/16870.html",
+				"icon": "lj.ico",
+				"title": "10.2019"
+			},
+			{
+				"url": "https://vk.com/album175903184_266755520",
+				"icon": "vk.png",
+				"title": "10.2019"
+			}
+		],
+		"img": "toledo.png",
+		"header": "Толедо",
+		"lng": -4.02,
+		"lat": 39.856,
+		"scale": 0.1
+	},
+	{
+		"links": [
+			{
+				"url": "https://nihutak.livejournal.com/16328.html",
+				"icon": "lj.ico",
+				"title": "10.2019"
+			},
+			{
+				"url": "https://vk.com/album175903184_266753733",
+				"icon": "vk.png",
+				"title": "10.2019"
+			}
+		],
+		"img": "madrid.png",
+		"header": "Мадрид",
+		"lng": -3.70,
+		"lat": 40.41,
+		"scale": 0.1
+	},
+	{
+		"links": [
+			{
+				"url": "https://flic.kr/s/aHsmrCbZb9",
+				"icon": "fl.ico",
+				"title": "11.2018"
+			}
+		],
+		"img": "zvenigorod.png",
+		"header": "Звенигород",
+		"lng": 36.85,
+		"lat": 55.73,
+		"scale": 0.18
+	},
+	{
+		"links": [
+			{
+				"url": "https://flic.kr/s/aHsmhUpiEC",
+				"icon": "fl.ico",
+				"title": "03.2018"
+			}
+		],
+		"img": "nhatrang.png",
+		"header": "Нячанг",
+		"lng": 109.19,
+		"lat": 12.25,
+		"scale": 0.09
+	},
+	{
+		"links": [
+			{
+				"url": "https://flic.kr/s/aHsmhUrhEY",
+				"icon": "fl.ico",
+				"title": "03.2018"
+			}
+		],
+		"img": "hanoi.PNG",
+		"header": "Ханой",
+		"lng": 105.84,
+		"lat": 21.01,
+		"scale": 0.09
+	},
+	{
+		"links": [
+			{
+				"url": "https://flic.kr/s/aHsmggZFdg",
+				"icon": "fl.ico",
+				"title": "11.2016"
+			},
+			{
+				"url": "https://flic.kr/s/aHsmggWbFn",
+				"icon": "fl.ico",
+				"title": "12.2017"
+			},
+			{
+				"url": "https://nihutak.livejournal.com/5176.html",
+				"icon": "lj.ico",
+				"title": "09.2018"
+			}
+		],
+		"img": "almaty.png",
+		"header": "Алматы",
+		"lng": 76.93,
+		"lat": 43.23,
+		"scale": 0.04
+	},
+	{
+		"links": [
+			{
+				"url": "https://flic.kr/s/aHsmacdUd5",
+				"icon": "fl.ico",
+				"title": "05.2017"
+			}
+		],
+		"img": "istra.png",
+		"header": "Истра",
+		"lng": 36.86,
+		"lat": 55.91,
+		"scale": 0.2
+	},
+	{
+		"links": [
+			{
+				"url": "https://flic.kr/s/aHsmggXv9n",
+				"icon": "fl.ico",
+				"title": "05.2017"
+			},
+			{
+				"url": "https://nihutak.livejournal.com/14186.html",
+				"icon": "lj.ico",
+				"title": "09.2019"
+			},
+			{
+				"url": "https://vk.com/album175903184_265504313",
+				"icon": "vk.png",
+				"title": "09.2019"
+			}
+		],
+		"img": "vladimir.png",
+		"header": "Владимир",
+		"lng":40.40,
+	"lat": 56.13,
+	"scale": 0.19
+	},
+	{
+		"links": [
+			{
+				"url": "https://flic.kr/s/aHskzyDi1W",
+				"icon": "fl.ico",
+				"title": "05.2016"
+			},
+			{
+				"url": "https://flic.kr/s/aHskzyAhoj",
+				"icon": "fl.ico",
+				"title": "02.2017"
+			}
+		],
+		"img": "peterburg.gif",
+		"header": "Санкт-Петербург",
+		"lng":30.31,
+		"lat": 59.9,
+		"scale": 0.15
+	},
+	{
+		"links": [
+			{
+				"url": "https://flic.kr/s/aHsmgh2q6i",
+				"icon": "fl.ico",
+				"title": "02.2016"
+			},
+			{
+				"url": "https://flic.kr/s/aHsmedbXAW",
+				"icon": "fl.ico",
+				"title": "11.2016"
+			}
+		],
+		"img": "nizhny.gif",
+		"header": "Нижний Новгород",
+		"lng":43.98,
+	"lat": 56.32,
+	"scale": 0.2
+	},
+	{
+		"links": [
+			{
+				"url": "https://flic.kr/s/aHsmacgCHm",
+				"icon": "fl.ico",
+				"title": "08.2016"
+			}
+		],
+		"img": "antalya.png",
+		"header": "Анталья",
+		"lng":30.71,
+	"lat": 36.88,
+	"scale": 0.07
+	},
+	{
+		"links": [
+			{
+				"url": "https://flic.kr/s/aHsmach2ib",
+				"icon": "fl.ico",
+				"title": "08.2016"
+			}
+		],
+		"img": "istambul.gif",
+		"header": "Стамбул",
+		"lng":29.00,
+	"lat": 41.01,
+	"scale": 0.11
+	},
+	{
+		"links": [
+			{
+				"url": "https://flic.kr/s/aHskzyCDey",
+				"icon": "fl.ico",
+				"title": "08.2016"
+			}
+		],
+		"img": "chisinau.png",
+		"header": "Кишинев",
+		"lng":28.85,
+	"lat": 47.02,
+	"scale": 0.12
+	},
+	{
+		"links": [
+			{
+				"url": "https://flic.kr/s/aHsmhUzd6m",
+				"icon": "fl.ico",
+				"title": "01.2016"
+			}
+		],
+		"img": "nursultan.png",
+		"header": "Нур-Султан",
+		"lng":71.45,
+	"lat": 51.15,
+	"scale": 0.03
+	},
+	{
+		"links": [
+			{
+				"url": "https://flic.kr/s/aHskzRJsgs",
+				"icon": "fl.ico",
+				"title": "04.2018"
+			}
+		],
+		"img": "kolomna.png",
+		"header": "Коломна",
+		"lng":38.75,
+	"lat": 55.10,
+	"scale": 0.18
+	},
+	{
+		"links": [
+			{
+				"url": "https://flic.kr/s/aHskAVziYb",
+				"icon": "fl.ico",
+				"title": "05.2018"
+			},
+			{
+				"url": "https://nihutak.livejournal.com/2585.html",
+				"icon": "lj.ico",
+				"title": "05.2018"
+			}
+		],
+		"img": "tashkent.png",
+		"header": "Ташкент",
+		"lng":69.24,
+	"lat": 41.32,
+	"scale": 0.04
+	},
+	{
+		"links": [
+			{
+				"url": "https://flic.kr/s/aHsmbFHSQb",
+				"icon": "fl.ico",
+				"title": "05.2018"
+			},
+			{
+				"url": "https://nihutak.livejournal.com/2847.html",
+				"icon": "lj.ico",
+				"title": "05.2018"
+			}
+		],
+		"img": "samarkand.png",
+		"header": "Самарканд",
+		"lng":66.97,
+	"lat": 39.65,
+	"scale": 0.03
+	},
+	{
+		"links": [
+			{
+				"url": "https://flic.kr/s/aHsmmg6cQD",
+				"icon": "fl.ico",
+				"title": "05.2018"
+			},
+			{
+				"url": "https://nihutak.livejournal.com/3207.html",
+				"icon": "lj.ico",
+				"title": "05.2018"
+			}
+		],
+		"img": "buhara.gif",
+		"header": "Бухара",
+		"lng":64.42,
+	"lat": 39.77,
+	"scale": 0.2
+	},
+	{
+		"links": [
+			{
+				"url": "https://flic.kr/s/aHsmj1BCnL",
+				"icon": "fl.ico",
+				"title": "09.2018"
+			}
+		],
+		"img": "Mozhaysk.png",
+		"header": "Можайск",
+		"lng":36.02,
+	"lat": 55.51,
+	"scale": 0.19
+	},
+	{
+		"links": [
+			{
+				"url": "https://flic.kr/s/aHsmoxd631",
+				"icon": "fl.ico",
+				"title": "09.2018"
+			},
+			{
+				"url": "https://nihutak.livejournal.com/5442.html",
+				"icon": "lj.ico",
+				"title": "09.2018"
+			}
+		],
+		"img": "dmitrov.gif",
+		"header": "Дмитров",
+		"lng":37.52,
+	"lat": 56.34,
+	"scale": 0.2
+	},
+	{
+		"links": [
+			{
+				"url": "https://nihutak.livejournal.com/17362.html",
+				"icon": "lj.ico",
+				"title": "11.2019"
+			},
+			{
+				"url": "https://vk.com/album175903184_266758395",
+				"icon": "vk.png",
+				"title": "11.2019"
+			}
+		],
+		"img": "Sevillia.png",
+		"header": "Севилья",
+		"lng":-5.99,
+	"lat": 37.39,
+	"scale": 0.04
+	},
+	{
+		"links": [
+			{
+				"url": "https://nihutak.livejournal.com/15972.html",
+				"icon": "lj.ico",
+				"title": "10.2019"
+			},
+			{
+				"url": "https://vk.com/album175903184_266747262",
+				"icon": "vk.png",
+				"title": "10.2019"
+			}
+		],
+		"img": "valencia.png",
+		"header": "Валенсия",
+		"lng":-0.36,
+	"lat": 39.47,
+	"scale": 0.17
+	},
+	{
+		"links": [
+			{
+				"url": "https://nihutak.livejournal.com/15420.html",
+				"icon": "lj.ico",
+				"title": "10.2019"
+			},
+			{
+				"url": "https://vk.com/album175903184_266744981",
+				"icon": "vk.png",
+				"title": "10.2019"
+			}
+		],
+		"img": "barca.png",
+		"header": "Барселона",
+		"lng":2.18,
+	"lat": 41.38,
+	"scale": 0.18
+	},
+	{
+		"links": [
+			{
+				"url": "https://nihutak.livejournal.com/14774.html",
+				"icon": "lj.ico",
+				"title": "10.2019"
+			},
+			{
+				"url": "https://vk.com/album175903184_265721619",
+				"icon": "vk.png",
+				"title": "10.2019"
+			}
+		],
+		"img": "yerevan.png",
+		"header": "Ереван",
+		"lng":44.51,
+	"lat": 40.18,
+	"scale": 0.17
+	},
+	{
+		"links": [
+			{
+				"url": "https://nihutak.livejournal.com/13725.html",
+				"icon": "lj.ico",
+				"title": "09.2019"
+			},
+			{
+				"url": "https://vk.com/album175903184_265504265",
+				"icon": "vk.png",
+				"title": "09.2019"
+			}
+		],
+		"img": "suzdal.png",
+		"header": "Суздаль",
+		"lng":40.44,
+	"lat": 56.42,
+	"scale": 0.18
+	},
+	{
+		"links": [
+			{
+				"url": "https://nihutak.livejournal.com/12782.html",
+				"icon": "lj.ico",
+				"title": "08.2019"
+			},
+			{
+				"url": "https://vk.com/album175903184_265534331",
+				"icon": "vk.png",
+				"title": "08.2019"
+			}
+		],
+		"img": "ryazan.gif",
+		"header": "Рязань",
+		"lng":39.76,
+	"lat": 54.63,
+	"scale": 0.19
+	},
+	{
+		"links": [
+			{
+				"url": "https://nihutak.livejournal.com/11581.html",
+				"icon": "lj.ico",
+				"title": "08.2019"
+			},
+			{
+				"url": "https://vk.com/album175903184_263894717",
+				"icon": "vk.png",
+				"title": "08.2019"
+			}
+		],
+		"img": "yaroslavl.png",
+		"header": "Ярославль",
+		"lng":39.88,
+	"lat": 57.63,
+	"scale": 0.18
+	},
+	{
+		"links": [
+			{
+				"url": "https://nihutak.livejournal.com/11082.html",
+				"icon": "lj.ico",
+				"title": "07.2019"
+			},
+			{
+				"url": "https://vk.com/album175903184_263457612",
+				"icon": "vk.png",
+				"title": "07.2019"
+			}
+		],
+		"img": "kaluga.gif",
+		"header": "Калуга",
+		"lng":36.24,
+	"lat": 54.52,
+	"scale": 0.18
+	},
+	{
+		"links": [
+			{
+				"url": "https://nihutak.livejournal.com/10815.html",
+				"icon": "lj.ico",
+				"title": "06.2019"
+			},
+			{
+				"url": "https://vk.com/album175903184_262724890",
+				"icon": "vk.png",
+				"title": "06.2019"
+			}
+		],
+		"img": "nesvizh.png",
+		"header": "Несвиж",
+		"lng":26.68,
+	"lat": 53.23,
+	"scale": 0.06
+	},
+	{
+		"links": [
+			{
+				"url": "https://nihutak.livejournal.com/10602.html",
+				"icon": "lj.ico",
+				"title": "06.2019"
+			},
+			{
+				"url": "https://vk.com/album175903184_262664161",
+				"icon": "vk.png",
+				"title": "06.2019"
+			}
+		],
+		"img": "minsk.png",
+		"header": "Минск",
+		"lng":27.55,
+	"lat": 53.90,
+	"scale": 0.027
+	},
+	{
+		"links": [
+			{
+				"url": "https://nihutak.livejournal.com/10149.html",
+				"icon": "lj.ico",
+				"title": "06.2019"
+			},
+			{
+				"url": "https://vk.com/album175903184_262466620",
+				"icon": "vk.png",
+				"title": "06.2019"
+			}
+		],
+		"img": "novoros.gif",
+		"header": "Новороссийск",
+		"lng":37.77,
+	"lat": 44.73,
+	"scale": 0.18
+	},
+	{
+		"links": [
+			{
+				"url": "https://nihutak.livejournal.com/9836.html",
+				"icon": "lj.ico",
+				"title": "06.2019"
+			},
+			{
+				"url": "https://vk.com/album175903184_262357003",
+				"icon": "vk.png",
+				"title": "06.2019"
+			}
+		],
+		"img": "krasnodar.png",
+		"header": "Краснодар",
+		"lng":38.99,
+	"lat": 45.03,
+	"scale": 0.23
+	},
+	{
+		"links": [
+			{
+				"url": "https://nihutak.livejournal.com/9711.html",
+				"icon": "lj.ico",
+				"title": "05.2019"
+			},
+			{
+				"url": "https://vk.com/album175903184_262054807",
+				"icon": "vk.png",
+				"title": "05.2019"
+			}
+		],
+		"img": "wroclaw.png",
+		"header": "Вроцлав",
+		"lng":17.04,
+	"lat": 51.11,
+	"scale": 0.14
+	},
+	{
+		"links": [
+			{
+				"url": "https://nihutak.livejournal.com/9081.html",
+				"icon": "lj.ico",
+				"title": "05.2019"
+			},
+			{
+				"url": "https://vk.com/album175903184_261846813",
+				"icon": "vk.png",
+				"title": "05.2019"
+			}
+		],
+		"img": "krakow.png",
+		"header": "Краков",
+		"lng":19.94,
+	"lat": 50.06,
+	"scale": 0.17
+	},
+	{
+		"links": [
+			{
+				"url": "https://nihutak.livejournal.com/8789.html",
+				"icon": "lj.ico",
+				"title": "05.2019"
+			},
+			{
+				"url": "https://vk.com/album175903184_261681823",
+				"icon": "vk.png",
+				"title": "05.2019"
+			}
+		],
+		"img": "warsaw.png",
+		"header": "Варшава",
+		"lng":21.01,
+	"lat": 52.24,
+	"scale": 0.07
+	},
+	{
+		"links": [
+			{
+				"url": "https://nihutak.livejournal.com/6291.html",
+				"icon": "lj.ico",
+				"title": "03.2019"
+			},
+			{
+				"url": "https://vk.com/album175903184_260399968",
+				"icon": "vk.png",
+				"title": "03.2019"
+			}
+		],
+		"img": "zaraisk.gif",
+		"header": "Зарайск",
+		"lng":38.87,
+	"lat": 54.76,
+	"scale": 0.2
+	},
+	{
+		"links": [
+			{
+				"url": "https://nihutak.livejournal.com/6291.html",
+				"icon": "lj.ico",
+				"title": "03.2019"
+			},
+			{
+				"url": "https://vk.com/album175903184_260399968",
+				"icon": "vk.png",
+				"title": "03.2019"
+			}
+		],
+		"img": "zaraisk.gif",
+		"header": "Зарайск",
+		"lng":38.87,
+	"lat": 54.76,
+	"scale": 0.2
+	},
+	{
+		"links": [
+			{
+				"url": "https://nihutak.livejournal.com/4955.html",
+				"icon": "lj.ico",
+				"title": "08.2018"
+			}
+		],
+		"img": "kostroma.gif",
+		"header": "Кострома",
+		"lng":40.92,
+	"lat": 57.76,
+	"scale": 0.17
+	},
+	{
+		"links": [
+			{
+				"url": "https://nihutak.livejournal.com/4838.html",
+				"icon": "lj.ico",
+				"title": "07.2018"
+			}
+		],
+		"img": "Tula.png",
+		"header": "Тула",
+		"lng":37.62,
+	"lat": 54.19,
+	"scale": 0.16
+	},
+	{
+		"links": [
+			{
+				"url": "https://nihutak.livejournal.com/4265.html",
+				"icon": "lj.ico",
+				"title": "06.2018"
+			}
+		],
+		"img": "serpuhov.png",
+		"header": "Серпухов",
+		"lng":37.40,
+	"lat": 54.91,
+	"scale": 0.16
+	}
+]
